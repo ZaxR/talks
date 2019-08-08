@@ -1,7 +1,7 @@
 # Talks
 Repo for all my talks (slides, videos, and code)
 
-| Date | Topic | Location | Links |
+| Date | Topic | Event | Links |
 | :--: | :---- | :------- | :---: |
 |2019-07-27|Property Testing Pandas with Bulwark|[PyOhio](https://www.pyohio.org/2019)|[Slides](https://bit.ly/32Yk4Zp) / [Video]()|
 |2018-08-09|Pandas MultiIndex Tutorial|[ChiPy \_\_main__](https://www.meetup.com/_ChiPy_/events/253543347/)|[Notebook](https://github.com/ZaxR/pandas_multiindex_tutorial) / [Video](https://youtu.be/kP-0ET0V5Tc)|
